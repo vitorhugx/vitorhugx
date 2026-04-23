@@ -1,8 +1,8 @@
-<h2 align="left">Hello 👋</h2>
+<h1 align="left">Hello 👋</h1>
 
 ###
 
-<h3 align="left">🧑🏻‍💻  About Me</h3>
+<h2 align="left">🧑🏻‍💻  About Me</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">🛠️ Skills</h3>
+<h2 align="left">🛠️ Skills</h2>
 
 ###
 
