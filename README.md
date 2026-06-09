@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋</h1>
+<h1 align="left">Olá 👋</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Vitor Hugo, from Brazil<br><br>💻 Computer Engineering student exploring different areas of technology and software development<br><br>⚡ In my free time, I enjoy learning new technologies and improving my programming skills</p>
+<p align="left">Sou Vitor Hugo, do Brasil<br><br>💻 Estudante de Engenharia da Computação, explorando diferentes áreas da tecnologia e do desenvolvimento de software<br><br>⚡ No meu tempo livre, gosto de aprender novas tecnologias e aprimorar minhas habilidades de programação</p>
 
 ###
 
